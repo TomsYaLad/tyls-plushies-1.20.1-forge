@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/plushie_themightynebby",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/plushie_themightynebby"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/plushie_themightynebby",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/plushie_themightynebby",
+      "y": 270
+    }
+  }
+}

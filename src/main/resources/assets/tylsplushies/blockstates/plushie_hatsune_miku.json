@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/plushie_hatsune_miku",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/plushie_hatsune_miku"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/plushie_hatsune_miku",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/plushie_hatsune_miku",
+      "y": 270
+    }
+  }
+}
