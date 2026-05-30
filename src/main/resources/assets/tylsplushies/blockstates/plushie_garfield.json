@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/plushie_garfield",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/plushie_garfield"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/plushie_garfield",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/plushie_garfield",
+      "y": 270
+    }
+  }
+}

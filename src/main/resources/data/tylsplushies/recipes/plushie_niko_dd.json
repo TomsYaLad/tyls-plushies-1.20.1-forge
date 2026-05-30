@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plush_template_game"
+      },
+      {
+        "item": "tylsplushies:plush_template_generic"
+      }
+    ],
+    {
+      "item": "minecraft:brown_wool"
+    },
+    {
+      "item": "dye_depot:indigo_wool"
+    },
+    {
+      "item": "dye_depot:navy_dye"
+    },
+    {
+      "item": "dye_depot:coral_wool"
+    },
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:light_dray_dye"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_niko"
+  }
+}

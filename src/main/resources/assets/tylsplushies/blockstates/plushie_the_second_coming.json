@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/plushie_the_second_coming",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/plushie_the_second_coming"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/plushie_the_second_coming",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/plushie_the_second_coming",
+      "y": 270
+    }
+  }
+}

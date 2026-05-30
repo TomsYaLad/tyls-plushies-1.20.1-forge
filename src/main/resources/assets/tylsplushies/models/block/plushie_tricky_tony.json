@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "layer0": "tylsplushies:block/plushie_tricky_tony",
+    "particle": "minecraft:block/white_wool"
+  },
+  "display": {
+    "firstperson_lefthand": {
+      "rotation": [0, 180, 0],
+      "translation": [0, 4, 0],
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 180, 0],
+      "translation": [0, 4, 0],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "tylsplushies:plushie_steve"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    },
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "M": {
+      "item": "minecraft:mossy_cobblestone"
+    }
+  },
+  "pattern": [
+    " S ",
+    "RNR",
+    "GMG"
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_him"
+  }
+}

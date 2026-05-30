@@ -1,23 +1,12 @@
 {
   "replace": false,
   "values": [
-    "tylsplushies:plushie_steve",
-    "tylsplushies:plushie_alex",
-    "tylsplushies:plushie_creeper",
-    "tylsplushies:plushie_herobrine",
-
-    "tylsplushies:plushie_themightynebby",
-
-    "tylsplushies:plushie_withered_bonnie",
-
-    "tylsplushies:plushie_tricky",
-    "tylsplushies:plushie_kinger",
-    "tylsplushies:plushie_feathers_mcgraw",
-
-    "tylsplushies:plushie_muir",
-
-    "tylsplushies:plushie_hatsune_miku",
-
-    "#tylsplushies:secret_plushies"
+    "#tylsplushies:plushies_minecraft",
+    "#tylsplushies:plushies_creator",
+    "#tylsplushies:plushies_game",
+    "#tylsplushies:plushies_video",
+    "#tylsplushies:plushies_text",
+    "#tylsplushies:plushies_comic",
+    "#tylsplushies:plushies_misc"
   ]
 }

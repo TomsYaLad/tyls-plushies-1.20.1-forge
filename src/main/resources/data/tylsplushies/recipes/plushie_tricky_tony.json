@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "tag": "minecraft:music_discs"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_tricky_tony"
+  }
+}

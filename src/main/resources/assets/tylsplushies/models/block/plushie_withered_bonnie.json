@@ -1,7 +1,0 @@
-{
-  "parent": "tylsplushies:block/template_plushie_one",
-  "textures": {
-    "0": "tylsplushies:block/plushie_withered_bonnie",
-    "particle": "minecraft:block/blue_wool"
-  }
-}

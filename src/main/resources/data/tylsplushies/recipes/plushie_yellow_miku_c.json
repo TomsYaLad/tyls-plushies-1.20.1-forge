@@ -1,0 +1,38 @@
+{
+  "type": "create:deploying",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "dye_depot"
+      }
+    },
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plushie_miku"
+      },
+      {
+        "item": "tylsplushies:plushie_miku_sakura"
+      },
+      {
+        "item": "tylsplushies:plushie_miku_summer"
+      }
+    ],
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "keepHeldItem": false,
+  "results": [
+    {
+      "item": "tylsplushies:plushie_yellow_miku"
+    }
+  ]
+}

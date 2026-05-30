@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plush_template_misc"
+      },
+      {
+        "item": "tylsplushies:plush_template_generic"
+      }
+    ],
+    {
+      "item": "dye_depot:maroon_wool"
+    },
+    {
+      "item": "minecraft:orange_wool"
+    },
+    {
+      "item": "dye_depot:tan_wool"
+    },
+    {
+      "item": "minecraft:cyan_dye"
+    },
+    {
+      "item": "dye_depot:amber_wool"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_sun_wukong"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/plushie_freddy_fazbear",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/plushie_freddy_fazbear"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/plushie_freddy_fazbear",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/plushie_freddy_fazbear",
+      "y": 270
+    }
+  }
+}

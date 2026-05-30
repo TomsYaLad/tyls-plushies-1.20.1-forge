@@ -13,6 +13,7 @@ public class ModItems {
 
     public static final RegistryObject<Item> PLUSH_TEMPLATE_GENERIC = ITEMS.register("plush_template_generic",
             () -> new Item(new Item.Properties()));
+//    .craftRemainder(ModItems.PLUSH_TEMPLATE_GENERIC.get()) doesn't work?
     public static final RegistryObject<Item> PLUSH_TEMPLATE_MINECRAFT = ITEMS.register("plush_template_minecraft",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> PLUSH_TEMPLATE_CREATOR = ITEMS.register("plush_template_creator",

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/plushie_bonnie_withered",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/plushie_bonnie_withered"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/plushie_bonnie_withered",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/plushie_bonnie_withered",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "#": {
+      "item": "minecraft:string"
+    },
+    "D": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "SD",
+    "#P"
+  ],
+  "result": {
+    "count": 4,
+    "item": "tylsplushies:plush_template_game"
+  },
+  "show_notification": true
+}
