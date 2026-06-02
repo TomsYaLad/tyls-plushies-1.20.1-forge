@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/test_plushie_1",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/test_plushie_1"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/test_plushie_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/test_plushie_1",
+      "y": 270
+    }
+  }
+}

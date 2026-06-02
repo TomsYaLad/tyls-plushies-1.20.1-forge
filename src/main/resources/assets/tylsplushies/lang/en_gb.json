@@ -8,9 +8,7 @@
   "item.tylsplushies.plush_template_comic": "Comic Plush Template",
   "item.tylsplushies.plush_template_misc": "Misc Plush Template",
 
-  "item.tylsplushies.plush_switcher_style": "Plush Style Switcher",
-  "item.tylsplushies.plush_switcher_version": "Plush Version Switcher",
-  "item.tylsplushies.plush_switcher_consumable": "Plush Switcher",
+  "item.tylsplushies.plush_switcher": "Plush Version Switcher",
 
 
   "block.tylsplushies.plushie_steve": "Steve Plushie",
@@ -67,7 +65,7 @@
   "block.tylsplushies.plushie_girlfriend": "Girlfriend Plushie",
   "block.tylsplushies.plushie_girlfriend_dsides": "Girlfriend Plushie (D-Sides)",
   "block.tylsplushies.plushie_the_knight": "The Knight Plushie",
-  "block.tylsplushies.plushie_zoe_mp": "Zoe Plushie (Monster Prom)",
+  "block.tylsplushies.plushie_zoe_mp": "Zoe Plushie",
   "block.tylsplushies.plushie_niko": "Niko Plushie",
   "block.tylsplushies.plushie_pico": "Pico Plushie",
   "block.tylsplushies.plushie_qwilfish": "Qwilfish Plushie",
@@ -129,7 +127,7 @@
   "block.tylsplushies.plushie_hobbes": "Hobbes Plushie",
   "block.tylsplushies.plushie_garfield": "Garfield Plushie",
   "block.tylsplushies.plushie_odie": "Odie Plushie",
-  "block.tylsplushies.plushie_snowy_tintin": "Snowy Plushie (Tintin)",
+  "block.tylsplushies.plushie_snowy_tintin": "Snowy Plushie",
   "block.tylsplushies.plushie_smurf": "Smurf Plushie",
   "block.tylsplushies.plushie_batman": "Batman Plushie",
   "block.tylsplushies.plushie_harley_quinn": "Harley Quinn Plushie",
