@@ -3,11 +3,8 @@
   "category": "misc",
   "conditions": [
     {
-      "type": "forge:not",
-      "value": {
-        "type": "forge:mod_loaded",
-        "modid": "dye_depot"
-      }
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
     }
   ],
   "ingredients": [
@@ -35,7 +32,7 @@
       "item": "minecraft:brown_wool"
     },
     {
-      "item": "minecraft:amber_dye"
+      "item": "dye_depot:amber_dye"
     }
   ],
   "result": {

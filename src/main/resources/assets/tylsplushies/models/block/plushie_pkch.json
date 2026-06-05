@@ -1,7 +1,7 @@
 {
   "parent": "tylsplushies:block/template_plushie_one",
   "textures": {
-    "0": "tylsplushies:block/plushie_pukicho",
+    "0": "tylsplushies:block/plushie_pkch",
     "particle": "minecraft:block/yellow_wool"
   }
 }

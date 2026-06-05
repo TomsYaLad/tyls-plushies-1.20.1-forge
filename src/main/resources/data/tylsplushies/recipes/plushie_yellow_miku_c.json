@@ -1,5 +1,5 @@
 {
-  "type": "create:deploying",
+  "type": "create:item_application",
   "conditions": [
     {
       "type": "forge:not",
@@ -29,7 +29,6 @@
       "item": "minecraft:yellow_dye"
     }
   ],
-  "keepHeldItem": false,
   "results": [
     {
       "item": "tylsplushies:plushie_yellow_miku"

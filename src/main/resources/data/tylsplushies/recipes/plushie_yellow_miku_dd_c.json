@@ -1,5 +1,5 @@
 {
-  "type": "create:deploying",
+  "type": "create:item_application",
   "conditions": [
     {
       "type": "forge:mod_loaded",
@@ -37,7 +37,6 @@
       }
     ]
   ],
-  "keepHeldItem": false,
   "results": [
     {
       "item": "tylsplushies:plushie_yellow_miku"

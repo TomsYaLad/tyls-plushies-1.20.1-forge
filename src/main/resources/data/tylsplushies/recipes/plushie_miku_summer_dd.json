@@ -3,11 +3,8 @@
   "category": "misc",
   "conditions": [
     {
-      "type": "forge:not",
-      "value": {
-        "type": "forge:mod_loaded",
-        "modid": "dye_depot"
-      }
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
     }
   ],
   "ingredients": [

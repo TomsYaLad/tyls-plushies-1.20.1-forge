@@ -23,7 +23,7 @@
       "item": "minecraft:gray_dye"
     },
     {
-      "item": "minecraft:white_wool"
+      "item": "minecraft:white_dye"
     },
     {
       "item": "minecraft:pink_wool"
@@ -45,6 +45,6 @@
     }
   ],
   "result": {
-    "item": "tylsplushies:plushie_alex"
+    "item": "tylsplushies:plushie_asterix"
   }
 }

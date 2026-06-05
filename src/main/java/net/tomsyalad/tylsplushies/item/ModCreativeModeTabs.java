@@ -85,7 +85,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.PLUSHIE_THRILLING_HORROR_MOD.get());
                         output.accept(ModBlocks.PLUSHIE_TRICKY_TONY.get());
                         output.accept(ModBlocks.PLUSHIE_YOU.get());
-                        output.accept(ModBlocks.PLUSHIE_PUKICHO.get());
+                        output.accept(ModBlocks.PLUSHIE_PKCH.get());
                         output.accept(ModBlocks.PLUSHIE_YELLOW_MIKU.get());
 
                     })

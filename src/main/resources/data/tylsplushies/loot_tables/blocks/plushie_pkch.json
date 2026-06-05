@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "tylsplushies:plushie_pukicho"
+          "name": "tylsplushies:plushie_pkch"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "tylsplushies:blocks/plushie_pukicho"
+  "random_sequence": "tylsplushies:blocks/plushie_pkch"
 }

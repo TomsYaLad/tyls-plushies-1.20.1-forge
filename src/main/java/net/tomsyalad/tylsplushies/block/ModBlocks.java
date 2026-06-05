@@ -124,7 +124,7 @@ public static final RegistryObject<Block> PLUSHIE_TRICKY = registerBlock("plushi
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.SNARE).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_YOU = registerBlock("plushie_you",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.HARP).sound(SoundType.WOOL)));
-    public static final RegistryObject<Block> PLUSHIE_PUKICHO = registerBlock("plushie_pukicho",
+    public static final RegistryObject<Block> PLUSHIE_PKCH = registerBlock("plushie_pkch",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.SNARE).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_YELLOW_MIKU = registerBlock("plushie_yellow_miku",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BIT).sound(SoundType.WOOL)));
