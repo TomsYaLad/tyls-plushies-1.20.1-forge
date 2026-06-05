@@ -1,0 +1,18 @@
+{
+  "parent": "tylsplushies:block/template_plushie_one",
+  "textures": {
+    "0": "tylsplushies:block/plushie_sheep_pink",
+    "particle": "minecraft:block/pink_wool"
+  },
+  "display": {
+    "gui": {
+      "rotation": [30, 135, 0],
+      "translation": [0, 2, 0]
+    },
+    "firstperson_lefthand": {
+      "rotation": [350, 160, 3.5],
+      "translation": [0, 5, 0],
+      "scale": [0.6, 0.6, 0.6]
+    }
+  }
+}

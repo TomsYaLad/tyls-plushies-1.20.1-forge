@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#tylsplushies:plushies_minecraft",
+    "#tylsplushies:plushies_creator",
+    "#tylsplushies:plushies_game",
+    "#tylsplushies:plushies_video",
+    "#tylsplushies:plushies_text",
+    "#tylsplushies:plushies_comic",
+    "#tylsplushies:plushies_misc"
+  ]
+}

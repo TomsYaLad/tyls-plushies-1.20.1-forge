@@ -25,6 +25,8 @@ public class ModBlocks {
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BASS).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_ALEX = registerBlock("plushie_alex",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.GUITAR).sound(SoundType.WOOL)));
+    public static final RegistryObject<Block> PLUSHIE_SHEEP_PINK = registerBlock("plushie_sheep_pink",
+            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BANJO).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_CREEPER = registerBlock("plushie_creeper",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.SNARE).sound(SoundType.WOOL)));
 //    public static final RegistryObject<Block> PLUSHIE_VILLAGER_PLAINS = registerBlock("plushie_villager_plains",
@@ -70,20 +72,20 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> PLUSHIE_BMO = registerBlock("plushie_bmo",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BIT).sound(SoundType.WOOL)));
-    public static final RegistryObject<Block> PLUSHIE_THE_SECOND_COMING = registerBlock("plushie_the_second_coming",
-            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.HAT).sound(SoundType.WOOL)));
-    public static final RegistryObject<Block> PLUSHIE_FEATHERS_MCGRAW = registerBlock("plushie_feathers_mcgraw",
-            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.COW_BELL).sound(SoundType.WOOL)));
-//    public static final RegistryObject<Block> PLUSHIE_KIT_BODEGA = registerBlock("plushie_kit_bodega",
-//            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BIT).sound(SoundType.WOOL)));
-    public static final RegistryObject<Block> PLUSHIE_TRICKY = registerBlock("plushie_tricky",
-            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.SNARE).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_POMNI = registerBlock("plushie_pomni",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.FLUTE).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_JAX = registerBlock("plushie_jax",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_KINGER = registerBlock("plushie_kinger",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.CHIME).sound(SoundType.WOOL)));
+    public static final RegistryObject<Block> PLUSHIE_THE_SECOND_COMING = registerBlock("plushie_the_second_coming",
+            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.HAT).sound(SoundType.WOOL)));
+    public static final RegistryObject<Block> PLUSHIE_FEATHERS_MCGRAW = registerBlock("plushie_feathers_mcgraw",
+            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.COW_BELL).sound(SoundType.WOOL)));
+//    public static final RegistryObject<Block> PLUSHIE_KIT_BODEGA = registerBlock("plushie_kit_bodega",
+//            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BIT).sound(SoundType.WOOL)));
+public static final RegistryObject<Block> PLUSHIE_TRICKY = registerBlock("plushie_tricky",
+        () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.SNARE).sound(SoundType.WOOL)));
 
     public static final RegistryObject<Block> PLUSHIE_SUN_WUKONG = registerBlock("plushie_sun_wukong",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.FLUTE).sound(SoundType.WOOL)));
@@ -94,17 +96,19 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> PLUSHIE_GARFIELD = registerBlock("plushie_garfield",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BASEDRUM).sound(SoundType.WOOL)));
+    public static final RegistryObject<Block> PLUSHIE_ASTERIX = registerBlock("plushie_asterix",
+            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.PLING).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_INA = registerBlock("plushie_ina",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.HARP).sound(SoundType.WOOL)));
 //    public static final RegistryObject<Block> PLUSHIE_EMMY = registerBlock("plushie_emmy",
 //            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.PLING).sound(SoundType.WOOL)));
-    public static final RegistryObject<Block> PLUSHIE_MUIR = registerBlock("plushie_muir",
-            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.CHIME).sound(SoundType.WOOL)));
 //    public static final RegistryObject<Block> PLUSHIE_TIDY = registerBlock("plushie_tidy",
 //            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.PLING).sound(SoundType.WOOL)));
+    public static final RegistryObject<Block> PLUSHIE_MUIR = registerBlock("plushie_muir",
+            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.CHIME).sound(SoundType.WOOL)));
 
-//    public static final RegistryObject<Block> PLUSHIE_BITSY = registerBlock("plushie_bitsy",
-//            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BELL).sound(SoundType.WOOL)));
+    public static final RegistryObject<Block> PLUSHIE_BITSY = registerBlock("plushie_bitsy",
+            () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BELL).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_MIKU = registerBlock("plushie_miku",
             () -> new ModPlushieBlock(BlockBehaviour.Properties.copy(Blocks.GLASS).instrument(NoteBlockInstrument.BIT).sound(SoundType.WOOL)));
     public static final RegistryObject<Block> PLUSHIE_MIKU_SAKURA = registerBlock("plushie_miku_sakura",

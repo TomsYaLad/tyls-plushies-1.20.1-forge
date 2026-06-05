@@ -31,6 +31,7 @@ public class ModCreativeModeTabs {
 
                         output.accept(ModBlocks.PLUSHIE_STEVE.get());
                         output.accept(ModBlocks.PLUSHIE_ALEX.get());
+                        output.accept(ModBlocks.PLUSHIE_SHEEP_PINK.get());
                         output.accept(ModBlocks.PLUSHIE_CREEPER.get());
 //                        output.accept(ModBlocks.PLUSHIE_VILLAGER_PLAINS.get());
 
@@ -55,24 +56,27 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.PLUSHIE_SANS.get());
 
                         output.accept(ModBlocks.PLUSHIE_BMO.get());
+                        output.accept(ModBlocks.PLUSHIE_POMNI.get());
+                        output.accept(ModBlocks.PLUSHIE_JAX.get());
+                        output.accept(ModBlocks.PLUSHIE_KINGER.get());
                         output.accept(ModBlocks.PLUSHIE_THE_SECOND_COMING.get());
                         output.accept(ModBlocks.PLUSHIE_FEATHERS_MCGRAW.get());
 //                        output.accept(ModBlocks.PLUSHIE_KIT_BODEGA.get());
                         output.accept(ModBlocks.PLUSHIE_TRICKY.get());
-                        output.accept(ModBlocks.PLUSHIE_POMNI.get());
-                        output.accept(ModBlocks.PLUSHIE_JAX.get());
-                        output.accept(ModBlocks.PLUSHIE_KINGER.get());
 
 //                        output.accept(ModBlocks.PLUSHIE_SUN_WUKONG.get());
 //                        output.accept(ModBlocks.PLUSHIE_SCP_049.get());
 //                        output.accept(ModBlocks.PLUSHIE_SCP_999.get());
 
                         output.accept(ModBlocks.PLUSHIE_GARFIELD.get());
+                        output.accept(ModBlocks.PLUSHIE_ASTERIX.get());
                         output.accept(ModBlocks.PLUSHIE_INA.get());
+//                        output.accept(ModBlocks.PLUSHIE_EMMY.get());
+//                        output.accept(ModBlocks.PLUSHIE_TIDY.get());
                         output.accept(ModBlocks.PLUSHIE_MUIR.get());
 
-                        output.accept(ModBlocks.PLUSHIE_SUN_WUKONG.get());
-//                        output.accept(ModBlocks.PLUSHIE_BITSY.get());
+                        output.accept(ModBlocks.PLUSHIE_SUN_WUKONG.get()); //temporary location
+                        output.accept(ModBlocks.PLUSHIE_BITSY.get());
                         output.accept(ModBlocks.PLUSHIE_MIKU.get());
                         output.accept(ModBlocks.PLUSHIE_MIKU_SAKURA.get());
                         output.accept(ModBlocks.PLUSHIE_MIKU_SUMMER.get());
