@@ -1,0 +1,61 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_plush_one": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tylsplushies:plushie_miku"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_plush_two": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tylsplushies:plushie_miku_sakura"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_plush_three": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tylsplushies:plushie_miku_summer"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tylsplushies:plushie_miku_"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_plush_one",
+      "has_plush_two",
+      "has_plush_three",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tylsplushies:plushie_miku_"
+    ]
+  },
+  "sends_telemetry_event": false
+}

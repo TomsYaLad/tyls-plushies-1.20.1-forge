@@ -10,32 +10,26 @@
   "ingredients": [
     [
       {
-        "item": "tylsplushies:plush_template_misc"
+        "item": "tylsplushies:plush_template_creator"
       },
       {
         "item": "tylsplushies:plush_template_generic"
       }
     ],
     {
-      "item": "minecraft:pink_wool"
+      "item": "minecraft:brown_wool"
     },
     {
-      "item": "dye_depot:maroon_dye"
-    },
-    {
-      "item": "dye_depot:forest_dye"
-    },
-    {
-      "item": "minecraft:brown_dye"
+      "item": "dye_depot:tan_wool"
     },
     {
       "item": "dye_depot:beige_wool"
     },
     {
-      "item": "minecraft:white_wool"
+      "item": "minecraft:gray_dye"
     }
   ],
   "result": {
-    "item": "tylsplushies:plushie_miku_sakura"
+    "item": "tylsplushies:plushie_goodtimeswithscar"
   }
 }

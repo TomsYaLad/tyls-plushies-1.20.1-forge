@@ -7,6 +7,8 @@
     { "id": "blahaj:blue_shark", "required": false },
     "tylsplushies:plushie_miku",
     "tylsplushies:plushie_miku_sakura",
-    "tylsplushies:plushie_miku_summer"
+    "tylsplushies:plushie_miku_summer",
+    "tylsplushies:plushie_teto",
+    "tylsplushies:plushie_teto_classic"
   ]
 }

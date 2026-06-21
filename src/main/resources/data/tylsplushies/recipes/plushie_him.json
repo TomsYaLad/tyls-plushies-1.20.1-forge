@@ -11,9 +11,14 @@
     "N": {
       "item": "minecraft:netherrack"
     },
-    "G": {
-      "item": "minecraft:gold_nugget"
-    },
+    "G": [
+      {
+        "item": "minecraft:gold_nugget"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
     "M": {
       "item": "minecraft:mossy_cobblestone"
     }

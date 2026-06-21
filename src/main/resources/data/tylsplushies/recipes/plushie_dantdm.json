@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
+  "group": "plushie_dantdm",
   "conditions": [
     {
       "type": "forge:not",

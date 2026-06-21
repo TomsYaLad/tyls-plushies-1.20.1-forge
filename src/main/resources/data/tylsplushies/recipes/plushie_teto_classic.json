@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_teto",
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_teto"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_teto_classic"
+  }
+}

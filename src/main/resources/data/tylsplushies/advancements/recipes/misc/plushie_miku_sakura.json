@@ -1,33 +1,36 @@
 {
   "parent": "minecraft:recipes/root",
-  "conditions": [
-    {
-      "type": "forge:not",
-      "value": {
-        "type": "forge:mod_loaded",
-        "modid": "dye_depot"
-      }
-    }
-  ],
   "criteria": {
-    "has_generic_template": {
+    "has_plush_one": {
       "conditions": {
         "items": [
           {
             "items": [
-              "tylsplushies:plush_template_generic"
+              "tylsplushies:plushie_miku"
             ]
           }
         ]
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "has_specific_template": {
+    "has_plush_two": {
       "conditions": {
         "items": [
           {
             "items": [
-              "tylsplushies:plush_template_misc"
+              "tylsplushies:plushie_miku_sakura"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_plush_three": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tylsplushies:plushie_miku_summer"
             ]
           }
         ]
@@ -43,8 +46,9 @@
   },
   "requirements": [
     [
-      "has_generic_template",
-      "has_specific_template",
+      "has_plush_one",
+      "has_plush_two",
+      "has_plush_three",
       "has_the_recipe"
     ]
   ],

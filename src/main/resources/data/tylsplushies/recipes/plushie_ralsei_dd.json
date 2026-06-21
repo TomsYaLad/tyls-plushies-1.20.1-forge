@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plush_template_game"
+      },
+      {
+        "item": "tylsplushies:plush_template_generic"
+      }
+    ],
+    {
+      "item": "minecraft:white_wool"
+    },
+    {
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "dye_depot:mint_wool"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_ralsei"
+  }
+}

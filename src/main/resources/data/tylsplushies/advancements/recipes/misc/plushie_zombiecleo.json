@@ -2,8 +2,11 @@
   "parent": "minecraft:recipes/root",
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "dye_depot"
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "dye_depot"
+      }
     }
   ],
   "criteria": {
@@ -24,7 +27,7 @@
         "items": [
           {
             "items": [
-              "tylsplushies:plush_template_misc"
+              "tylsplushies:plush_template_creator"
             ]
           }
         ]
@@ -33,7 +36,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "tylsplushies:plushie_miku_summer_dd"
+        "recipe": "tylsplushies:plushie_zombiecleo"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -47,7 +50,7 @@
   ],
   "rewards": {
     "recipes": [
-      "tylsplushies:plushie_miku_summer_dd"
+      "tylsplushies:plushie_zombiecleo"
     ]
   },
   "sends_telemetry_event": false

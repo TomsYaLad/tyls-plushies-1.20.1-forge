@@ -1,0 +1,7 @@
+{
+  "parent": "tylsplushies:block/template_plushie_one",
+  "textures": {
+    "0": "tylsplushies:block/plushie_geminitay",
+    "particle": "minecraft:block/lime_wool"
+  }
+}

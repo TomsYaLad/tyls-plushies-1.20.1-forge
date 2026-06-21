@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_dantdm",
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_dantdm_blue"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_dantdm"
+  }
+}

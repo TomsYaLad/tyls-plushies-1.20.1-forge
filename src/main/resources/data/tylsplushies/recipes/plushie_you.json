@@ -11,29 +11,15 @@
       },
       {
         "item": "minecraft:soul_soil"
-      }
-    ],
-    [
-      {
-        "item": "minecraft:echo_shard"
       },
       {
-        "item": "minecraft:disc_fragment_5"
+        "item": "minecraft:soul_torch"
       },
       {
-        "item": "minecraft:dragon_breath"
+        "item": "minecraft:soul_lantern"
       },
       {
-        "item": "minecraft:experience_bottle"
-      },
-      {
-        "item": "minecraft:heart_of_the_sea"
-      },
-      {
-        "item": "minecraft:end_crystal"
-      },
-      {
-        "tag": "forge:heads"
+        "item": "minecraft:soul_campfire"
       }
     ]
   ],

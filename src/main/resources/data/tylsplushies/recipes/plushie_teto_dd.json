@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plush_template_misc"
+      },
+      {
+        "item": "tylsplushies:plush_template_generic"
+      }
+    ],
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "minecraft:red_wool"
+    },
+    {
+      "item": "dye_depot:beige_wool"
+    },
+    {
+      "item": "dye_depot:rose_dye"
+    },
+    {
+      "item": "minecraft:light_gray_wool"
+    },
+    {
+      "item": "minecraft:black_wool"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_teto"
+  }
+}
