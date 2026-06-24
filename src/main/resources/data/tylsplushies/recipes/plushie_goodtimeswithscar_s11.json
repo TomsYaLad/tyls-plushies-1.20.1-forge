@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_goodtimeswithscar",
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_goodtimeswithscar"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_goodtimeswithscar_s11"
+  }
+}

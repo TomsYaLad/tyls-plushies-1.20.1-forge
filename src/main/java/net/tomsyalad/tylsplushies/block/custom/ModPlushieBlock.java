@@ -37,6 +37,16 @@ public class ModPlushieBlock extends HorizontalDirectionalBlock {
             if(state.is(ModBlocks.PLUSHIE_DANTDM_BLUE.get())) {
                 return ModBlocks.PLUSHIE_DANTDM.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
 
+            if(state.is(ModBlocks.PLUSHIE_GOODTIMESWITHSCAR.get())) {
+                return ModBlocks.PLUSHIE_GOODTIMESWITHSCAR_S11.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+            if(state.is(ModBlocks.PLUSHIE_GOODTIMESWITHSCAR_S11.get())) {
+                return ModBlocks.PLUSHIE_GOODTIMESWITHSCAR.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+
+            if(state.is(ModBlocks.PLUSHIE_TRICKY.get())) {
+                return ModBlocks.PLUSHIE_TRICKY_UNMASKED.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+            if(state.is(ModBlocks.PLUSHIE_TRICKY_UNMASKED.get())) {
+                return ModBlocks.PLUSHIE_TRICKY.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+
             if(state.is(ModBlocks.PLUSHIE_MIKU.get())) {
                 return ModBlocks.PLUSHIE_MIKU_SAKURA.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
             if(state.is(ModBlocks.PLUSHIE_MIKU_SAKURA.get())) {

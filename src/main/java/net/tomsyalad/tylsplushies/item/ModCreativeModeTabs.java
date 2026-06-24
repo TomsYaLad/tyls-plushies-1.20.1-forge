@@ -40,6 +40,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.PLUSHIE_STAMPY.get());
                         output.accept(ModBlocks.PLUSHIE_GEMINITAY.get());
                         output.accept(ModBlocks.PLUSHIE_GOODTIMESWITHSCAR.get());
+                        output.accept(ModBlocks.PLUSHIE_GOODTIMESWITHSCAR_S11.get());
                         output.accept(ModBlocks.PLUSHIE_GRIAN.get());
                         output.accept(ModBlocks.PLUSHIE_MUMBO_JUMBO.get());
                         output.accept(ModBlocks.PLUSHIE_XISUMAVOID.get());
@@ -67,6 +68,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.PLUSHIE_FEATHERS_MCGRAW.get());
 //                        output.accept(ModBlocks.PLUSHIE_KIT_BODEGA.get());
                         output.accept(ModBlocks.PLUSHIE_TRICKY.get());
+                        output.accept(ModBlocks.PLUSHIE_TRICKY_UNMASKED.get());
 
 //                        output.accept(ModBlocks.PLUSHIE_SUN_WUKONG.get());
 //                        output.accept(ModBlocks.PLUSHIE_SCP_049.get());
