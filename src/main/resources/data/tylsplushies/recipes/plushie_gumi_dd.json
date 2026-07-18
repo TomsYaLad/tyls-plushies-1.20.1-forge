@@ -10,29 +10,32 @@
   "ingredients": [
     [
       {
-        "item": "tylsplushies:plush_template_game"
+        "item": "tylsplushies:plush_template_misc"
       },
       {
         "item": "tylsplushies:plush_template_generic"
       }
     ],
     {
-      "item": "dye_depot:indigo_wool"
-    },
-    {
-      "item": "minecraft:purple_dye"
-    },
-    {
-      "item": "minecraft:black_dye"
+      "item": "minecraft:white_dye"
     },
     {
       "item": "minecraft:red_dye"
     },
     {
-      "item": "minecraft:gray_wool"
+      "item": "minecraft:lime_wool"
+    },
+    {
+      "item": "dye_depot:beige_wool"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "item": "minecraft:orange_wool"
     }
   ],
   "result": {
-    "item": "tylsplushies:plushie_bonnie_withered"
+    "item": "tylsplushies:plushie_gumi"
   }
 }

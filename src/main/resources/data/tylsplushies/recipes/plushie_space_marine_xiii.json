@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plush_template_misc"
+      },
+      {
+        "item": "tylsplushies:plush_template_generic"
+      }
+    ],
+    {
+      "item": "minecraft:blue_wool"
+    },
+    {
+      "item": "minecraft:gray_dye"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_space_marine_xiii"
+  }
+}

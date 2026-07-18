@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:recipes/root",
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "forge:mod_loaded",
+        "modid": "dye_depot"
+      }
+    }
+  ],
+  "criteria": {
+    "has_generic_template": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tylsplushies:plush_template_generic"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_specific_template": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tylsplushies:plush_template_game"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tylsplushies:plushie_bonnie"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_generic_template",
+      "has_specific_template",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tylsplushies:plushie_bonnie"
+    ]
+  },
+  "sends_telemetry_event": false
+}

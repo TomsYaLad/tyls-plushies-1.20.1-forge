@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_bonnie",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plush_template_game"
+      },
+      {
+        "item": "tylsplushies:plush_template_generic"
+      }
+    ],
+    {
+      "item": "dye_depot:indigo_wool"
+    },
+    {
+      "item": "minecraft:purple_wool"
+    },
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_bonnie"
+  }
+}

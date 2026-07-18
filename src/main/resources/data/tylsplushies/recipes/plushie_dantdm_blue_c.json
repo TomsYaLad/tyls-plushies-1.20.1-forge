@@ -1,0 +1,23 @@
+{
+  "type": "create:item_application",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_dantdm"
+    },
+    {
+      "tag": "tylsplushies:plush_templates"
+    }
+  ],
+  "keepHeldItem": true,
+  "results": [
+    {
+      "item": "tylsplushies:plushie_dantdm_blue"
+    }
+  ]
+}

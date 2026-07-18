@@ -32,11 +32,13 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.PLUSHIE_STEVE.get());
                         output.accept(ModBlocks.PLUSHIE_ALEX.get());
                         output.accept(ModBlocks.PLUSHIE_SHEEP_PINK.get());
+//                        output.accept(ModBlocks.PLUSHIE_CHICKEN_BABY.get());
                         output.accept(ModBlocks.PLUSHIE_CREEPER.get());
-//                        output.accept(ModBlocks.PLUSHIE_VILLAGER_PLAINS.get());
+                        output.accept(ModBlocks.PLUSHIE_VILLAGER_PLAINS.get());
 
                         output.accept(ModBlocks.PLUSHIE_DANTDM.get());
                         output.accept(ModBlocks.PLUSHIE_DANTDM_BLUE.get());
+                        output.accept(ModBlocks.PLUSHIE_DR_TRAYAURUS.get());
                         output.accept(ModBlocks.PLUSHIE_STAMPY.get());
                         output.accept(ModBlocks.PLUSHIE_GEMINITAY.get());
                         output.accept(ModBlocks.PLUSHIE_GOODTIMESWITHSCAR.get());
@@ -51,6 +53,9 @@ public class ModCreativeModeTabs {
 
                         output.accept(ModBlocks.PLUSHIE_RALSEI.get());
                         output.accept(ModBlocks.PLUSHIE_FREDDY_FAZBEAR.get());
+//                        output.accept(ModBlocks.PLUSHIE_FREDDY_GLAMROCK.get());
+//                        output.accept(ModBlocks.PLUSHIE_FREDDY_IGNITED.get());
+                        output.accept(ModBlocks.PLUSHIE_BONNIE.get());
                         output.accept(ModBlocks.PLUSHIE_BONNIE_WITHERED.get());
                         output.accept(ModBlocks.PLUSHIE_BOYFRIEND.get());
 //                        output.accept(ModBlocks.PLUSHIE_THE_KNIGHT.get());
@@ -75,25 +80,31 @@ public class ModCreativeModeTabs {
 //                        output.accept(ModBlocks.PLUSHIE_SCP_999.get());
 
                         output.accept(ModBlocks.PLUSHIE_GARFIELD.get());
+//                        output.accept(ModBlocks.PLUSHIE_SNOOPY.get());
                         output.accept(ModBlocks.PLUSHIE_ASTERIX.get());
-//                        output.accept(ModBlocks.PLUSHIE_CASPER.get());
+                        output.accept(ModBlocks.PLUSHIE_CASPER.get());
                         output.accept(ModBlocks.PLUSHIE_INA.get());
 //                        output.accept(ModBlocks.PLUSHIE_EMMY.get());
+//                        output.accept(ModBlocks.PLUSHIE_RAYNE_LIEBERT.get());
 //                        output.accept(ModBlocks.PLUSHIE_TIDY.get());
                         output.accept(ModBlocks.PLUSHIE_MUIR.get());
 
                         output.accept(ModBlocks.PLUSHIE_SUN_WUKONG.get()); //temporary location
+//                        output.accept(ModBlocks.PLUSHIE_CHUCKLES.get());
                         output.accept(ModBlocks.PLUSHIE_BITSY.get());
+                        output.accept(ModBlocks.PLUSHIE_GUMI.get());
                         output.accept(ModBlocks.PLUSHIE_MIKU.get());
                         output.accept(ModBlocks.PLUSHIE_MIKU_SAKURA.get());
                         output.accept(ModBlocks.PLUSHIE_MIKU_SUMMER.get());
                         output.accept(ModBlocks.PLUSHIE_TETO.get());
                         output.accept(ModBlocks.PLUSHIE_TETO_CLASSIC.get());
+                        output.accept(ModBlocks.PLUSHIE_SPACE_MARINE_XIII.get());
 
                         output.accept(ModBlocks.PLUSHIE_HIM.get());
                         output.accept(ModBlocks.PLUSHIE_THRILLING_HORROR_MOD.get());
                         output.accept(ModBlocks.PLUSHIE_TRICKY_TONY.get());
                         output.accept(ModBlocks.PLUSHIE_YOU.get());
+                        output.accept(ModBlocks.PLUSHIE_APOLLO_11.get());
                         output.accept(ModBlocks.PLUSHIE_PKCH.get());
                         output.accept(ModBlocks.PLUSHIE_YELLOW_MIKU.get());
 

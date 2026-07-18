@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "dye_depot"
+    }
+  ],
+  "ingredients": [
+    [
+      {
+        "item": "tylsplushies:plush_template_minecraft"
+      },
+      {
+        "item": "tylsplushies:plush_template_generic"
+      }
+    ],
+    {
+      "item": "dye_depot:tan_wool"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "minecraft:brown_wool"
+    },
+    {
+      "item": "minecraft:gray_dye"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_villager_plains"
+  }
+}

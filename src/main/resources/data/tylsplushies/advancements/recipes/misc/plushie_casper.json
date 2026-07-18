@@ -1,11 +1,5 @@
 {
   "parent": "minecraft:recipes/root",
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "dye_depot"
-    }
-  ],
   "criteria": {
     "has_generic_template": {
       "conditions": {
@@ -19,12 +13,24 @@
       },
       "trigger": "minecraft:inventory_changed"
     },
-    "has_specific_template": {
+    "has_specific_template_one": {
       "conditions": {
         "items": [
           {
             "items": [
-              "tylsplushies:plush_template_game"
+              "tylsplushies:plush_template_comic"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_specific_template_two": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tylsplushies:plush_template_video"
             ]
           }
         ]
@@ -33,7 +39,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "tylsplushies:plushie_bonnie_withered_dd"
+        "recipe": "tylsplushies:plushie_casper"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -41,13 +47,14 @@
   "requirements": [
     [
       "has_generic_template",
-      "has_specific_template",
+      "has_specific_template_one",
+      "has_specific_template_two",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "tylsplushies:plushie_bonnie_withered_dd"
+      "tylsplushies:plushie_casper"
     ]
   },
   "sends_telemetry_event": false
