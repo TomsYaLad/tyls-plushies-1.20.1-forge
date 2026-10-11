@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tylsplushies:block/plushie_guinevere_princess",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tylsplushies:block/plushie_guinevere_princess"
+    },
+    "facing=south": {
+      "model": "tylsplushies:block/plushie_guinevere_princess",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tylsplushies:block/plushie_guinevere_princess",
+      "y": 270
+    }
+  }
+}

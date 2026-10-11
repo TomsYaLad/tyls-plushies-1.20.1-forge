@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_freddy_fazbear",
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_freddy_ignited"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_freddy_fazbear"
+  }
+}

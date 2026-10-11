@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_rumi",
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_rumi_patterns"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_rumi"
+  }
+}

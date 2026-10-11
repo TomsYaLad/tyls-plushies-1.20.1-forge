@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_guinevere",
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_guinevere"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_guinevere_princess"
+  }
+}

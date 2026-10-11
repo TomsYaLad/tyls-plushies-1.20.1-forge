@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plushie_scout_corbin",
+  "ingredients": [
+    {
+      "item": "tylsplushies:plushie_scout_corbin"
+    }
+  ],
+  "result": {
+    "item": "tylsplushies:plushie_scout_corbin_paul"
+  }
+}

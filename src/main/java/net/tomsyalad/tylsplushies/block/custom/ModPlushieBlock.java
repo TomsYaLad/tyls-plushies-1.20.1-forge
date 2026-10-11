@@ -42,15 +42,35 @@ public class ModPlushieBlock extends HorizontalDirectionalBlock {
             if(state.is(ModBlocks.PLUSHIE_GOODTIMESWITHSCAR_S11.get())) {
                 return ModBlocks.PLUSHIE_GOODTIMESWITHSCAR.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
 
+            if(state.is(ModBlocks.PLUSHIE_FREDDY_FAZBEAR.get())) {
+                return ModBlocks.PLUSHIE_FREDDY_IGNITED.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+            if(state.is(ModBlocks.PLUSHIE_FREDDY_IGNITED.get())) {
+                return ModBlocks.PLUSHIE_FREDDY_FAZBEAR.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+            
             if(state.is(ModBlocks.PLUSHIE_BONNIE.get())) {
                 return ModBlocks.PLUSHIE_BONNIE_WITHERED.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
             if(state.is(ModBlocks.PLUSHIE_BONNIE_WITHERED.get())) {
                 return ModBlocks.PLUSHIE_BONNIE.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
-            
+
+            if(state.is(ModBlocks.PLUSHIE_GUINEVERE.get())) {
+                return ModBlocks.PLUSHIE_GUINEVERE_PRINCESS.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+            if(state.is(ModBlocks.PLUSHIE_GUINEVERE_PRINCESS.get())) {
+                return ModBlocks.PLUSHIE_GUINEVERE.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+
+            if(state.is(ModBlocks.PLUSHIE_RUMI.get())) {
+                return ModBlocks.PLUSHIE_RUMI_PATTERNS.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+            if(state.is(ModBlocks.PLUSHIE_RUMI_PATTERNS.get())) {
+                return ModBlocks.PLUSHIE_RUMI.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+
             if(state.is(ModBlocks.PLUSHIE_TRICKY.get())) {
                 return ModBlocks.PLUSHIE_TRICKY_UNMASKED.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
             if(state.is(ModBlocks.PLUSHIE_TRICKY_UNMASKED.get())) {
                 return ModBlocks.PLUSHIE_TRICKY.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+
+            if(state.is(ModBlocks.PLUSHIE_SCOUT_CORBIN.get())) {
+                return ModBlocks.PLUSHIE_SCOUT_CORBIN_PAUL.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
+            if(state.is(ModBlocks.PLUSHIE_SCOUT_CORBIN_PAUL.get())) {
+                return ModBlocks.PLUSHIE_SCOUT_CORBIN.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
 
             if(state.is(ModBlocks.PLUSHIE_MIKU.get())) {
                 return ModBlocks.PLUSHIE_MIKU_SAKURA.get().defaultBlockState().setValue(FACING, state.getValue(FACING)); }
